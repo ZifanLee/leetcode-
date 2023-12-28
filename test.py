@@ -1,4 +1,3 @@
-nums = []
-nums2 = None
+nums = [1,2,3]
 
-print(not nums)
+print(nums[3:])
