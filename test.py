@@ -1,7 +1,3 @@
-from typing import Optional, List, Tuple
-from collections import deque
+nums = [1,2,3]
 
-my_deque = deque()
-
-
-print(not my_deque)
+print(nums[10:])
