@@ -1,3 +1,3 @@
-nums = [1,2,3]
-
-print(nums[10:])
+str = "123456"
+for index, item in enumerate(str):
+    print(index, item)
